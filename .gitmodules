@@ -1,0 +1,3 @@
+[submodule "Basemod"]
+	path = Basemod
+	url = https://github.com/aredwin11/Basemod.git
